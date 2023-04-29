@@ -218,8 +218,7 @@ button {
 
 .banner_bg_main {
     width: 100%;
-    /* background-image: url(../images/bkhoor.jpg); */
-    background-color: #111;
+    background-image: url(../images/bkhoor.jpg);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
