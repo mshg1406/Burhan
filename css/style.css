@@ -219,7 +219,6 @@ button {
 .banner_bg_main {
     width: 100%;
     background-image: url(../images/bkhoor.jpg);
-    float: left;
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
